@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="zefraz-header.svg" width="100%" />
-</p>
-
-<p align="center">
-  <img src="zefraz_logo.gif" alt="ZEFRAZ ANIMATION" width="100%" />
+  <img src="zefraz-header.svg" width="100%" style="display:block; margin:0; padding:0;" /><img src="zefraz_logo.gif" alt="ZEFRAZ ANIMATION" width="100%" style="display:block; margin:0; padding:0;" />
 </p>
 
 <h1 align="center">Hi, I'm Rangga Muhamad Fajar 👋</h1>
