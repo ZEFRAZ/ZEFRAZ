@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="zefraz_logo.gif" alt="ZEFRAZ ANIMATION" width="100%" />
+</p>
+
 <h1 align="center">Hi, I'm Rangga Muhamad Fajar 👋</h1>
 <h3 align="center">Informatics Engineering Student @ Politeknik Negeri Bandung</h3>
 
