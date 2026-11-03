@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-  <img src="zefraz-footer.svg" width="100%" />
+  <img src="zefraz-footer-wave.gif" alt="Chocolate wave footer" width="100%" />
 </p>
