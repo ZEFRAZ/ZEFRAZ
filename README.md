@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="zefraz-profile-banner.gif" alt="ZEFRAZ animation beneath a chocolate wave" width="100%" />
+  <img src="zefraz-profile-banner-spaced.gif" alt="ZEFRAZ animation beneath a chocolate wave" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Rangga Muhamad Fajar 👋</h1>
